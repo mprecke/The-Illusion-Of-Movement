@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>cinematography</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter3.playgroundchapter/Page1.playgroundpage</string>
+				<key>Title</key>
+				<string>Motion Pictures</string>
+			</dict>
+			<key>Definition</key>
+			<string>Cinematophraphy is the art of creating motion pictures by using a camera and recording many images (frames) per seconds on film stock material to capture real life movements. The process of filming, developing, cutting and editing strips of film and subsequently projecting it for an audience is the core of the motion picture industry.</string>
+			<key>Title</key>
+			<string>Cinematography</string>
+		</dict>
+		<key>egyptian</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/Page2.playgroundpage</string>
+				<key>Title</key>
+				<string>Image Sequences</string>
+			</dict>
+			<key>Definition</key>
+			<string>Egyptian murals found at various sites feature long series of images that apperently depict the sequence of events. Some of these murals date back approximately 4000 years.</string>
+			<key>Title</key>
+			<string>Egyptian Motion Story</string>
+		</dict>
+		<key>flipbook</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter2.playgroundchapter/Page1.playgroundpage</string>
+				<key>Title</key>
+				<string>Illustration of Movement</string>
+			</dict>
+			<key>Definition</key>
+			<string>A flip book contains a series of pictures the vary gradually from page to page. By flipping through the pages quickly, the images appear to animate and simulate motion. The oldest documentation of a flip book dates back to 1868, when John Barnes Linnet patented the underlying pricniple under the name &quot;kineograph&quot;.</string>
+			<key>Title</key>
+			<string>Flip Book</string>
+		</dict>
+		<key>horse</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter2.playgroundchapter/Page2.playgroundpage</string>
+				<key>Title</key>
+				<string>Capturing Movement</string>
+			</dict>
+			<key>Definition</key>
+			<string>Between 1878 and 1884, Eadweard Muybridge perfected his method of capturing horses in motion, proving that they do have all four hooves off the ground during their running stride with his camera technology.</string>
+			<key>Title</key>
+			<string>The Running Horse</string>
+		</dict>
+		<key>phenakistiscope</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter2.playgroundchapter/Page1.playgroundpage</string>
+				<key>Title</key>
+				<string>Illustration of Movement</string>
+			</dict>
+			<key>Definition</key>
+			<string>The phenakistiscope is regarded as one of the first forms of moving media entertainment that paved the way for the future motion picture. It was invented almost simultaneously around December 1832 by the Belgian physicist Joseph Plateau and the Austrian professor of practical geometry Simon Stampfer.</string>
+			<key>Title</key>
+			<string>Phenakistiscope</string>
+		</dict>
+		<key>stopmotion</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter3.playgroundchapter/Page2.playgroundpage</string>
+				<key>Title</key>
+				<string>Try something new</string>
+			</dict>
+			<key>Definition</key>
+			<string>Stop motion is an animation technique that manipulates objects in a scene so they appear moving on its own. Objects are moved in small increments and photographed frame by frame to create the illusion of movement when the sequence of images is played at a sufficiently high enough frame rate.</string>
+			<key>Title</key>
+			<string>Stop Motion</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

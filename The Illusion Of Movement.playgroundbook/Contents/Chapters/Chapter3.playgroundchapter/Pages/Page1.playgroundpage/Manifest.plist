@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Motion Pictures</string>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>PosterReference</key>
+	<string>IllusionOfMovementCoverVertical.png</string>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>The bouncing ball animation consists of 32 images. At 1.5 frames per second you can see the individual frames while they are running through the projector.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>At framerates above 24 it is no longer possible to see the individual images. If the projector is not running smoothly, you can see parts of the frame even at high frame rates, so it needs to be very precisely timed.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Select the number of frames per second by tapping on the blue number next to &apos;var framesPerSecond =&apos;. If you choose a value smaller than 24, you might be able to see the individual images, at higher frame rates the animation is fluid. Make sure to set &apos;var showFramingErrors&apos; to &quot;false&quot; to make sure the projector runs smoothly.</string>
+			<key>SpoilerButtonTitle</key>
+			<string>show solution</string>
+		</dict>
+	</array>
+</dict>
+</plist>

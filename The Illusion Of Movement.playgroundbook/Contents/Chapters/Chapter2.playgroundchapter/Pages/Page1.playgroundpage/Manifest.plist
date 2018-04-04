@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Illustration of Movement</string>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>PosterReference</key>
+	<string>IllusionOfMovementCoverVertical.png</string>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>When you look through the Phenakistiscope, you can see the couple dancing either slowly or quickly, depending on the speed of the scope&apos;s rotation.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>The Phenakistscope has 13 images. This can be used as an indication for the number of seconds to choose for a smooth animation. Tap &apos;Run my Code&apos; to see the couple dancing. Try different values to see how things change.</string>
+			<key>New item</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Select a reasonable number of seconds for a scope rotation by tapping on the blue number next to &apos;var numberOfSeconds =&apos;. If you choose a value smaller than 1 second, it becomes difficult to see the individual images. At a value of 0.54 or less it will seem like a fluent but rather quick animation.</string>
+			<key>SpoilerButtonTitle</key>
+			<string>show solution</string>
+		</dict>
+	</array>
+</dict>
+</plist>

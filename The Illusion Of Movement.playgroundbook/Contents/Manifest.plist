@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>SwiftVersion</key>
+	<string>4.0</string>
+	<key>ImageReference</key>
+	<string>discobulus.png</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>The Illusion of Movement</string>
+	<key>ContentIdentifier</key>
+	<string>com.mprecke.IllusionOfMovement</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.3</string>
+	<key>Chapters</key>
+	<array>
+		<string>Chapter1.playgroundchapter</string>
+		<string>Chapter2.playgroundchapter</string>
+		<string>Chapter3.playgroundchapter</string>
+	</array>
+</dict>
+</plist>

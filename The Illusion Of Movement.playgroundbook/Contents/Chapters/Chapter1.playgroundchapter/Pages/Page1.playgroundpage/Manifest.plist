@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Image Sequences</string>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>PosterReference</key>
+	<string>IllusionOfMovementCoverVertical.png</string>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>To create your motion story, tap on the blue number next to &apos;var number&apos; on the left and pick a number between 1 and 24.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>The number you choose will determine the length of the motion story you will see. Tap &apos;Run my Code&apos; to see how the story progresses. </string>
+		</dict>
+	</array>
+</dict>
+</plist>

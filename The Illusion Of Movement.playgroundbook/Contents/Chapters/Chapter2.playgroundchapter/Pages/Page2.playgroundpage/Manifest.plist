@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Capturing Movement</string>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>PosterReference</key>
+	<string>IllusionOfMovementCoverVertical.png</string>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>To see the horse running, you have to pick the number of frames (images) shown per second. Depening on the number of frames per second the horse will be running slowly or quickly.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Although only 11 distinct illustrations and 16 actual photos of the running horse are available, it is enough to create a very smooth and fluent animation. Tap &apos;Run my Code&apos; to see the horse running. Try different values to see how the animation changes.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Select the number of frames per seond by tapping on the blue number next to &apos;var framesPerSecond =&apos;. If you choose a value smaller than 24, you might be able to see the individual images however briefly. At speeds of above 24 frames per seconds, the human eye becomes inable to distinguish the indivual images, resulting a smooth animation of the running horse. You can switch between the illustration and actual photos by tapping on the purple &apos;true&apos; next to &apos;var showRealPhotos =&apos; and select false instead.</string>
+			<key>SpoilerButtonTitle</key>
+			<string>show solution</string>
+		</dict>
+	</array>
+</dict>
+</plist>
