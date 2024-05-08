@@ -15,3 +15,5 @@ Frameworks used:
 - UIKit
 - AVFoundation
 - Playground Support
+
+Playgroundbook created for the Apple WWDC 2018 Scholarship
